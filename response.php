@@ -1,5 +1,5 @@
 <?php
-namespace WD\Pro\Sms;
+namespace ______;
 
 class Response{
 
