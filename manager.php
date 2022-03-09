@@ -1,5 +1,5 @@
 <?php
-namespace WD\Pro\Sms;
+namespace ____;
 
 use
 	\WD\Pro\Helper,
