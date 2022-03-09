@@ -2,9 +2,9 @@
 namespace ____;
 
 use
-	\WD\Pro\Helper,
-	\WD\Pro\PluginManager,
-	\WD\Pro\Sms\ProfileTable as Profile;
+	\___\___\Helper,
+	\___\___\PluginManager,
+	\___\___\___\ProfileTable as Profile;
 
 final class Manager{
 
